@@ -1,4 +1,5 @@
-package com.tnsif.basics;
+//Program to demonstrate  break statement
+package com.tnsif.basic.java;
 
 public class BreakDemo {
 	public static void main(String[] args) {
@@ -7,6 +8,7 @@ public class BreakDemo {
 			if (i == 5)
 				break;
 			System.out.println(i);
-}
+		}
+
 	}
 }
